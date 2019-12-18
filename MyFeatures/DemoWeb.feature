@@ -26,6 +26,9 @@ Examples:
 		|namrata@s.com|147258|
 
 @Sanity
+
+fuckoff 
+
 Scenario: user access Search Item
 Given user clicks on Search Item box
 Then he types which item he want to buy
